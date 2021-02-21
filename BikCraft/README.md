@@ -11,3 +11,5 @@ Website of a fictitious company built in HTML, Css and implementation of additio
 
 ![Bikcraft](https://raw.githubusercontent.com/diegobaena89/frontEnd-Origamid/master/BikCraft/gifBike.gif)
 
+![response](https://raw.githubusercontent.com/diegobaena89/frontEnd-Origamid/main/BikCraft/responsiveness.gif)
+
