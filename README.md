@@ -1,11 +1,11 @@
 <div align="center">
 
-Curso em andamento...
+Class in progress...
 
 # FRONT END COURSE
 mentored by ![Origamid](www.origamid.com)
 
-Course mentored by André Rafael on the Origamid platform, covering various concepts of Front End development such as HTML, Css, Javascript, React, Redux, Typography and UI Design.
+Class mentored by André Rafael on the Origamid platform, covering various concepts of Front End development such as HTML, Css, Javascript, React, Redux, Typography and UI Design.
 
 
 ![origamid](https://raw.githubusercontent.com/diegobaena89/frontend-origamid/main/Grade%20Do%20Curso.png)
@@ -16,23 +16,22 @@ Course mentored by André Rafael on the Origamid platform, covering various conc
 
 ## Already Done
 
-- [x] Web Design Completo
+- [x] Complete Web Design
 - [x] CSS
-     - [x] CSS Avançado - Posicionamento
+     - [x] Advanced CSS - Positioning
      - [x] CSS Flexbox 
      - [x] CSS Grid Layout
-     - [x] CSS com SASS 
-- [ ] JavaScript Completo ES6 
-- [ ] Vue.ja 2 Completo 
+     - [x] CSS w/ SASS 
+- [ ] Complete JavaScript ES6  
 - [x] Bootstrap 4 
-- [ ] Automação Front End com NPM
-- [ ] JavaScript e JQuery
-- [ ] React Completo  [in progress...]
-- [ ] Redux com React
+- [ ] Front End automation w/ NPM
+- [ ] JavaScript & JQuery
+- [ ] Complete React  [in progress...]
+- [ ] Redux w/ React
 - [ ] Design 
-    - [ ] UI Design Avançado
-    - [ ] UX Design Heuristicas
-    - [ ] Tipografia Avançada 
+    - [ ] Advanced UI Design
+    - [ ] UX Design Heuristics
+    - [ ] Advanced Typography
     - [x] Adobe XD
 
 
